@@ -37,7 +37,7 @@ namespace CRUD
 
                     if (CadastroFuncionario.CadastrarFuncionarios())
                     {
-                        MessageBox.Show("SALVO COM SUCESSO SEU BOSTA");
+                        MessageBox.Show("Salvo com sucesso!");
                     }
                 }
                 else
